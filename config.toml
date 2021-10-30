@@ -47,12 +47,9 @@ enableMissingTranslationPlaceholders = false
         weight = 1
 
     [[menu.main]]
-        name = "Twitter"
-        url = "https://twitter.com/thingsym"
+        name = "Hatena Blog"
+        url = "/hatena-blog"
         weight = 2
-
-# Markup configure section
-# See https://gohugo.io/getting-started/configuration-markup/
 [markup]
     defaultMarkdownHandler = "goldmark"
     [markup.goldmark.renderer]
@@ -61,17 +58,13 @@ enableMissingTranslationPlaceholders = false
         startLevel = 2
         endLevel = 6
         ordered = false
-
 [outputs]
     home = ["HTML", "RSS", "Algolia"]
-
-# Algolia Search configure section
 [outputFormats.Algolia]
     baseName = "algolia"
     mediaType = "application/json"
-    isPlainText = true
-    notAlternative = true
-
+    isPlainText = false
+    notAlternative = false
 [params.algolia]
     vars = [
         "title",
