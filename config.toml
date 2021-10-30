@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://japlengs.github.io/wiki-page-hugo/"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
