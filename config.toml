@@ -50,6 +50,10 @@ enableMissingTranslationPlaceholders = false
         name = "Hatena Blog"
         url = "/hatena-blog"
         weight = 2
+    [[menu.main]]
+        name = "Reference"
+        url = "/reference"
+        weight = 2
 [markup]
     defaultMarkdownHandler = "goldmark"
     [markup.goldmark.renderer]
