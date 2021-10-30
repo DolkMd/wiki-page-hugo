@@ -8,6 +8,8 @@ description: Text about this post
 
 # Japlengs Home
 
+![](https://avatars.githubusercontent.com/u/87905490?s=96&v=4)
+
 ## [Blog](hatena-blog/)
 
 活動記録としてのブログ。  
