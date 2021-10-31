@@ -36,4 +36,4 @@ TableOfContents: true
 
 * https://medium-company.com/%E3%83%9E%E3%83%BC%E3%82%B8%E3%82%BD%E3%83%BC%E3%83%88/
 * http://www.ics.kagoshima-u.ac.jp/~fuchida/edu/algorithm/sort-algorithm/merge-sort.html
-
+* https://www.codereading.com/algo_and_ds/algo/merge_sort.html
