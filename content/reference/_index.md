@@ -7,6 +7,9 @@ TableOfContents: true
 
 ## [Algorithm](./algorithm/)
 
+* [sort](./algorithm/sort)
+* [serach](./algorithm/serach)
+
 ## [Develop](./develop/)
 
 ## [Environment](./environment)

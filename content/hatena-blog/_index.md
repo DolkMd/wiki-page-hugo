@@ -25,3 +25,5 @@ TableOfContents: true
 * [【初めてのFlutter】神経衰弱を作ってみた件🃏🃏🃏](https://cydermark.hatenablog.com/entry/2021/10/10/225228?_ga=2.1315061.57992212.1635552026-426265042.1632576832)
 
 ## 開発系
+
+* [【Mac x Hugo x GitHub Actions】SSGで今までの勉強会を記録していくスタイル　😅😅😅](https://cydermark.hatenablog.com/entry/2021/10/31/204036)
