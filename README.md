@@ -2,7 +2,7 @@
 
 ## GitHub Pages
 
-https://japlengs.github.io/wiki-page-hugo/
+https://dolkmd.github.io/wiki-page-hugo/
 
 ## 記事
 
