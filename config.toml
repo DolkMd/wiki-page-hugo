@@ -1,8 +1,8 @@
-baseURL = "https://japlengs.github.io/wiki-page-hugo/"
+baseURL = "https://dolkmd.github.io/wiki-page-hugo/"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
-title = "Japlengs Wiki"
+title = "DolkMd Wiki"
 theme = "techdoc"
 
 hasCJKLanguage = true
